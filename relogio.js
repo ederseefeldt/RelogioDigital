@@ -7,9 +7,10 @@ setInterval(() => { // O setInterval irá fazer o relógio ficar atualizando seu
     //----------------------------------------------------------------//
 
     // Variáveis reponsáveis por pegar o horário atual
-    let h = new Date().getHours()
-    let m = new Date().getMinutes()
-    let s = new Date().getSeconds()
+    let date = new Date()
+    h = date.getHours()
+    m = date.getMinutes()
+    s = date.getSeconds()
 
     //----------------------------------------------------------------//
 

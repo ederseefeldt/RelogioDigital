@@ -99,16 +99,6 @@ body {
 
 .creditos {
     position: absolute;
-    bottom: 8vh;
+    bottom: 7vh;
     color: aliceblue;
-    width: 50%;
-}
-
-.creditos h2 {
-    text-align: center;
-}
-
-.creditos span {
-    color: #ffdf00;
-    font-size: 3vw;
 }
